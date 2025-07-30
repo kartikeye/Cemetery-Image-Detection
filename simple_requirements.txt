@@ -1,0 +1,5 @@
+# Simple Cemetery Detection - Basic Requirements
+opencv-python
+numpy
+matplotlib
+scipy
